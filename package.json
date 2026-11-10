@@ -1,0 +1,13 @@
+{
+  "name": "lampa-tizenbrew",
+  "version": "1.0.0",
+  "description": "Lampa (каталог фильмов) для TizenBrew: открывает веб-приложение Lampa, размещённое в домашней сети",
+  "packageType": "app",
+  "appName": "Lampa",
+  "appPath": "index.html",
+  "keys": [],
+  "license": "MIT",
+  "files": [
+    "index.html"
+  ]
+}
